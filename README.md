@@ -10,3 +10,6 @@ The working principle of an IDS involves placing it strategically within a netwo
 
 In modern networked business environments, a high level of security is required to ensure safe and trusted communication of information between organizations. An IDS serves as an adaptable safeguard technology for system security when traditional technologies fail. As cyber-attacks continue to evolve and become more sophisticated, it is crucial for protection technologies to adapt and stay ahead of emerging threats.
 
+
+#Notic
+There is a PDF file attached to the project that you can download and review for all the details
